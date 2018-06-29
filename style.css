@@ -12,11 +12,13 @@ body{
 }
 
 
-h1 {
+.header {
     background-color: forestgreen;
     color: sandybrown;
     text-align: center;
-    font-size: 50px;
+    font-size:70px;
+    border: 5px solid sandybrown;
+    height: 440px;
 }
 
 #introduction {
@@ -24,15 +26,29 @@ h1 {
     color: lawngreen;
     text-align: center;
     opacity: 0.6;
-    border
+    border: 5px solid lawngreen;
+    font-size: 25px;
+    margin-top: 50px
+    
+        
 
 }
 
 #habitat {
     background-color: red;
     text-align: center;
-    opacity: 0.6;
+    opacity: 0.9;
+    border: 5px solid black;
+    margin-top: 50px;
+    font-size: 25px;
     
+}
+
+
+#media {
+    text-align: center;
+    font-size: 30px;
+    color: red;
     
     
 }
