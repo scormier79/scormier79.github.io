@@ -1,0 +1,83 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    background: url("../images/background3.jpeg")
+    no-repeat center center fixed;
+    background-size: cover;
+    
+}
+
+header {
+    width: auto;
+    margin: 0 auto;
+    height: 120px;
+    background-color: #4caf50;
+}
+
+#header-title {
+    text-align: center;
+    color: white;
+    font-size: 30px;
+    padding-top: 20px;
+    margin-left: 160px;
+}
+
+
+
+
+#side-bar ul li {
+    list-style: none;
+    color: white;
+    padding: 15px 80px;
+    border-bottom: 1px solid white;
+    border-top: 1px solid white;
+    font-size: 18px;
+        
+}
+
+#side-bar {
+    
+    width: 200px;
+    height: 100%;
+    background-color: #4caf50;
+    float: right;
+    opacity: 0.9;
+    
+}
+
+#button {
+    float: right;
+    color: white;
+    padding: 26px;
+    margin-right: 35px;
+    
+}  
+
+#mypic {
+    border: 34px solid rgb(236,236,236);
+    margin-left: 650px;
+}
+
+#contact-info {
+    background-color: #4caf50;
+    color: white;
+    width: 100%;
+    height: 500px;
+    text-align: center;
+    font-size: 40px;
+    padding-top: 70px;
+    opacity: 0.8;
+    border-radius: 25%;
+    
+}
+
+#footer {
+     width: auto;
+    margin-top: 405px;
+    height: 100px;
+    background-color: #4caf50;
+}
+

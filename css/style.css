@@ -1,0 +1,151 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    background: url("../images/background3.jpeg")
+    no-repeat center center fixed;
+    background-size: cover;
+    
+}
+
+header {
+    width: auto;
+    margin: 0 auto;
+    height: 120px;
+    background-color: #4caf50;
+}
+
+#header-title {
+    text-align: center;
+    color: white;
+    font-size: 30px;
+    padding-top: 20px;
+    margin-left: 160px;
+}
+
+
+
+
+#side-bar ul li {
+    list-style: none;
+    color: white;
+    padding: 15px 80px;
+    border-bottom: 1px solid white;
+    border-top: 1px solid white;
+    font-size: 18px;
+        
+}
+
+#side-bar {
+    
+    width: 200px;
+    height: 100%;
+    background-color: #4caf50;
+    float: right;
+    opacity: 0.9;
+    margin-left: 20px;
+    
+}
+
+#button {
+    float: right;
+    color: white;
+    padding: 26px;
+    margin-right: 35px;
+    
+}  
+
+#mypic {
+    float: left;
+    border: 34px solid rgb(236,236,236);
+    
+    
+     
+}
+
+#bio {
+    text-align: center;
+    font-size: 25px;
+    
+    
+}
+
+#page-break {
+    
+    width: 100%;
+    height: 50px;
+    background-color: #4caf50;
+    margin-top: 300px;
+    opacity: 0.9;
+    
+    
+}
+
+i {
+    text-align: center;
+    color: white;
+    font-size: 40px;
+    padding-top: 5px;
+    margin-left: 230px
+    
+}
+
+#resume {
+    float: left;
+    text-align: center;
+    font-size: 20px;;
+    border: 5px solid white;
+    height: 400px;
+    width: 496px;
+    background-color: #4caf50;
+    opacity: 0.9;
+    margin-bottom: 100px;
+    
+    
+        
+
+}
+
+.resH {
+    margin: 50px;
+    color: white;
+    font-size: 3em;
+
+}
+
+.resP {
+    margin: 30px;
+    color: white;
+    
+}
+
+.resBTN {
+    font-size: 25px;
+    
+}
+
+
+#two {
+    margin-left: 440px;
+}
+
+#three {
+    margin-left: 460px;
+}
+
+
+#footer {
+     width: auto;
+    margin-top: 405px;
+    height: 100px;
+    background-color: #4caf50;
+}
+
+
+
+
+
+
+
